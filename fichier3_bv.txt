@@ -1,0 +1,1 @@
+Fichier crée sur la vm2 après le fork : contenu initial

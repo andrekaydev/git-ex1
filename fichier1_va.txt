@@ -1,1 +1,2 @@
 Fichier crée sur la vm 1 : contenu initial
+Modif depuis al vm2 
