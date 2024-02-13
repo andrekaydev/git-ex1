@@ -1,0 +1,1 @@
+Premier contenu après création sur la vm1
