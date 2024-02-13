@@ -1,1 +1,2 @@
 Fichier crée sur la vm1: contenu initial
+Seconde modification après échanges de ons procédés.
